@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444868467771",
+    "project_id": "autism-support-campanion",
+    "storage_bucket": "autism-support-campanion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444868467771:android:b95328cd297c7f0f62d01e",
+        "android_client_info": {
+          "package_name": "com.example.autism_support_companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdZYnJTPcZ-2mEd_rzegYrhsOyEMBdgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
